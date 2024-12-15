@@ -1,4 +1,6 @@
-**Project: Data Warehouse for Music Streaming Startup (Sparkify)**
+**Project: Data Warehouse for Music Streaming Startup (Sparkify)**  
+
+Project 2 of Udacity's Data Engineering with AWS Nanodegree Program
 
 Developed an ETL pipeline to migrate and transform data for Sparkify, a growing music streaming startup, onto Amazon Redshift for improved analytics. The project involved extracting user activity and song metadata stored as JSON logs in S3, staging the data in Redshift, and transforming it into a set of dimensional tables for easier analysis by the company's data team.
 
