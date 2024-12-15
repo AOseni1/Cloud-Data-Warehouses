@@ -48,14 +48,14 @@ FACT TABLE
 
 songplay_table  
 songplay_id PRIMARY KEY  
-start_time
-user_id
-level
-song_id
-artist_id
-session_id
-location
-user_agent
+start_time  
+user_id  
+level  
+song_id  
+artist_id  
+session_id  
+location  
+user_agent  
 
 DIMENSION TABLES
 
