@@ -1,4 +1,4 @@
-**Project: Data Warehouse for Music Streaming Startup (Sparkify)**  
+*Data Warehouse for Music Streaming Startup (Sparkify)*
 
 Project Overview:
 Designed and implemented a data warehouse for a music streaming startup, Sparkify, to analyze user activity and song plays. Built an ETL pipeline to extract JSON logs from S3, stage the data in Amazon Redshift, and transform it into dimensional tables for analytics.
